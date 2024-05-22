@@ -113,14 +113,14 @@ body{
 .modulo.laranja { border: 2px solid #ff9800; }
 .modulo.laranja > h3 { background-color: #ff9800; } 
 
-.modulo.cor { border: 2px solid #?; }
-.modulo.cor > h3 { background-color: #?; } 
+.modulo.verde-escuro { border: 2px solid #1b5e20; }
+.modulo.verde-escuro > h3 { background-color: #1b5e20; } 
 
-.modulo.cor { border: 2px solid #?; }
-.modulo.cor > h3 { background-color: #?; } 
+.modulo.vermelho-escuro { border: 2px solid #b71c1c; }
+.modulo.vermelho-escuro > h3 { background-color: #b71c1c; } 
 
-.modulo.cor { border: 2px solid #?; }
-.modulo.cor > h3 { background-color: #?; } 
+.modulo.azul-escuro { border: 2px solid #0d47a1; }
+.modulo.azul-escuro > h3 { background-color: #0d47a1; } 
 
-.modulo.cor { border: 2px solid #?; }
-.modulo.cor > h3 { background-color: #?; } 
+.modulo.roxo-escuro { border: 2px solid #4a148c; }
+.modulo.roxo-escuro > h3 { background-color: #4a148c; } 
