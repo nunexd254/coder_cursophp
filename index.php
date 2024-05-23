@@ -36,7 +36,20 @@
                         <li><a href="exercicio.php?dir=tipos&file=booleano">Tipo Booleano</a></li>
                         <li><a href="exercicio.php?dir=tipos&file=conversoes">Conversões</a></li>
                     </ul>
-                </div>           
+                </div>
+                <div class="modulo azul">
+                    <h3>Tipos</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=variaveis&file=basico">Váriaveis Básico</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=desafio_equacao">Desafio Equação</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=atribuicao">Atribuição</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=interpolacao">Interpolação</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=variaveis_variaveis">Variáveis Váriaveis</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=desafio_variaveis">Desafio Variáveis</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=valor_referencia">Valor Referencia</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=constantes">Constantes</a></li>
+                    </ul>
+                </div>                      
             </nav>
         </div>
     </main>
