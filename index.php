@@ -83,13 +83,13 @@
                     <h3>6. Estruturas de Controle</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=repeticoes&file=for">Laço FOR</a></li>
-                        <li><a href="exercicio.php?dir=repeticoes&file=mapa">Mapa</a></li>
-                        <li><a href="exercicio.php?dir=repeticoes&file=desafio_index">Desafio Index</a></li>
-                        <li><a href="exercicio.php?dir=repeticoes&file=desafio_meses">Desafio Meses</a></li>
-                        <li><a href="exercicio.php?dir=repeticoes&file=operacoes">Operações com repeticoes</a></li>
-                        <li><a href="exercicio.php?dir=repeticoes&file=desafio_sorteio">Desafio Sorteio</a></li>
-                        <li><a href="exercicio.php?dir=repeticoes&file=multi">Multidimensionais</a></li>
-                        <li><a href="exercicio.php?dir=repeticoes&file=constantes">repeticoess Constantes</a></li>
+                        <li><a href="exercicio.php?dir=repeticoes&file=desafio_for">Desafio FOR</a></li>
+                        <li><a href="exercicio.php?dir=repeticoes&file=foreach">Foreach</a></li>
+                        <li><a href="exercicio.php?dir=repeticoes&file=break_continue">Break Continue</a></li>
+                        <li><a href="exercicio.php?dir=repeticoes&file=desafio_impressao">Desafio Impressao</a></li>
+                        <li><a href="exercicio.php?dir=repeticoes&file=while">While</a></li>
+                        <li><a href="exercicio.php?dir=repeticoes&file=desafio_tabela">Desafio Tabela</a></li>
+                        <li><a href="exercicio.php?dir=repeticoes&file=desafio_tabela_2">Desafio Tabela2</a></li>
                         <li><a href="exercicio.php?dir=repeticoes&file=get">$_GET</a></li>
                         <li><a href="exercicio.php?dir=repeticoes&file=post">$_POST</a></li>
                         <li><a href="exercicio.php?dir=repeticoes&file=comparacao">Comparação Entre arrays</a></li>
