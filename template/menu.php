@@ -133,8 +133,16 @@
                         <li><a href="exercicio.php?dir=namespace&file=sub_namespaces">Sub Namespaces</a></li>
                         <li><a href="exercicio.php?dir=namespace&file=use_as_arquivo">Use/As</a></li>
                         <li><a href="exercicio.php?dir=namespace&file=use_as">Use\As</a></li>
-                        <li><a href="exercicio.php?dir=namespace&file=include_once">Include Once</a></li>
-                        <li><a href="exercicio.php?dir=namespace&file=desafio">Desafio</a></li>
+                        
+                    </ul>
+                </div>  
+                <div class="modulo verde">
+                    <h3>11. Trat. Erros</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=tratamento_erro&file=try_catch">Try/Catch</a></li>
+                        <li><a href="exercicio.php?dir=tratamento_erro&file=erros_personalizados">Erros Personalizados</a></li>
+                        <li><a href="exercicio.php?dir=tratamento_erro&file=desafio_intdiv_teste">Desafio Intdiv</a></li>
+                        <li><a href="exercicio.php?dir=tratamento_erro&file=gerenciador_error">Gerenciador de erros</a></li>
                     </ul>
                 </div>           
             </nav>
