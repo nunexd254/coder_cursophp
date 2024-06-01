@@ -12,7 +12,7 @@ foreach($notas as $nota){
 
 print_r($notasFinais1).'<br>';
 
-$notasFinais2 = array_map(round,$notas);
+$notasFinais2 = array_map('round',$notas);
 print_r($notasFinais2);
 
 foreach($notas as $nota){
@@ -29,6 +29,6 @@ function aprovados($nota){
 }
 echo '<br>';
 
-$apenasOsAprovados2 = array_filter($notas, aprovados);
+$apenasOsAprovados2 = array_filter($notas, 'aprovados');
 
 print_r($apenasOsAprovados2);
