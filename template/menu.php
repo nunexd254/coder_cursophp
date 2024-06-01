@@ -124,14 +124,17 @@
                         <li><a href="exercicio.php?dir=includes&file=require_return">Require & Return</a></li>
                         <li><a href="exercicio.php?dir=includes&file=include_once">Include Once</a></li>
                         <li><a href="exercicio.php?dir=includes&file=desafio">Desafio</a></li>
-                        <li><a href="exercicio.php?dir=includes&file=interface">Interface</a></li>
-                        <li><a href="exercicio.php?dir=includes&file=abstract">Abstract</a></li>
-                        <li><a href="exercicio.php?dir=includes&file=desafio_erros">Desafio Erros</a></li>
-                        <li><a href="exercicio.php?dir=includes&file=final">Final</a></li>
-                        <li><a href="exercicio.php?dir=includes&file=traits_01">Traits 01</a></li>
-                        <li><a href="exercicio.php?dir=includes&file=traits_02">Traits 02</a></li>
-                        <li><a href="exercicio.php?dir=includes&file=metodos_magicos">Métodos Mágicos</a></li>
-                        <li><a href="exercicio.php?dir=includes&file=polimorfismo">Polimorfismo</a></li>
+                    </ul>
+                </div> 
+                <div class="modulo laranja-escuro">
+                    <h3>10. Namespaces</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=namespace&file=basico">Basico</a></li>
+                        <li><a href="exercicio.php?dir=namespace&file=sub_namespaces">Sub Namespaces</a></li>
+                        <li><a href="exercicio.php?dir=namespace&file=use_as_arquivo">Use/As</a></li>
+                        <li><a href="exercicio.php?dir=namespace&file=use_as">Use\As</a></li>
+                        <li><a href="exercicio.php?dir=namespace&file=include_once">Include Once</a></li>
+                        <li><a href="exercicio.php?dir=namespace&file=desafio">Desafio</a></li>
                     </ul>
                 </div>           
             </nav>
