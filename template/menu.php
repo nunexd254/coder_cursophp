@@ -144,5 +144,14 @@
                         <li><a href="exercicio.php?dir=tratamento_erro&file=desafio_intdiv_teste">Desafio Intdiv</a></li>
                         <li><a href="exercicio.php?dir=tratamento_erro&file=gerenciador_error">Gerenciador de erros</a></li>
                     </ul>
-                </div>           
+                </div>    
+                <div class="modulo vermelho">
+                    <h3>12. Sessão e Cookie</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=sessao&file=basico_sessao">Sessão</a></li>
+                        <li><a href="exercicio.php?dir=sessao&file=gerenciando_sessao">Gerenciando Sessao</a></li>
+                        <li><a href="exercicio.php?dir=sessao&file=desafio_intdiv_teste">Desafio Intdiv</a></li>
+                        <li><a href="exercicio.php?dir=sessao&file=gerenciador_error">Gerenciador de erros</a></li>
+                    </ul>
+                </div>         
             </nav>
