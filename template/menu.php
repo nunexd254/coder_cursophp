@@ -164,5 +164,16 @@
                         <li><a href="exercicio.php?dir=api&file=upload">Upload arquivo</a></li>
                         <li><a href="exercicio.php?dir=api&file=downloads">Download arquivo</a></li>
                     </ul>
-                </div>         
+                </div>  
+                <div class="modulo roxo">
+                    <h3>14. Formulário</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=formulario&file=formulario">Formulário</a></li>
+                        <li><a href="exercicio.php?dir=formulario&file=datas_02">Datas #02</a></li>
+                        <li><a href="exercicio.php?dir=formulario&file=escrever_arquivo">Escrever Arquivo</a></li>
+                        <li><a href="exercicio.php?dir=formulario&file=ler_arquivo">Ler arquivo</a></li>
+                        <li><a href="exercicio.php?dir=formulario&file=upload">Upload arquivo</a></li>
+                        <li><a href="exercicio.php?dir=formulario&file=downloads">Download arquivo</a></li>
+                    </ul>
+                </div>        
             </nav>
