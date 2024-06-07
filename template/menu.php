@@ -187,8 +187,21 @@
                         <li><a href="exercicio.php?dir=db&file=downloads">Download arquivo</a></li>
                         
                         <li><a href="exercicio.php?dir=db&file=excluir_2">Excluir Registro #02</a></li>
-                        <li><a href="exercicio.php?dir=db&file=inserir_2">Inserir Registro #02</a></li>
+                        <li><a href="exercicio.php?dir=db&file=alterar">Alterar Registro </a></li>
                         <li><a href="exercicio.php?dir=db&file=downloads">Download arquivo</a></li>
+                    </ul>
+                </div>  
+                <div class="modulo verde-escuro">
+                    <h3>16. Banco de Dados PDO</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=db&file=conexao_pdo">Conexão PDO</a></li>
+                        <li><a href="exercicio.php?dir=db&file=inserir_pdo">Inserir PDO</a></li>
+                        <li><a href="exercicio.php?dir=db&file=inserir_1">Inserir Registro #01</a></li>
+                        <li><a href="exercicio.php?dir=db&file=consultar">Consultar Registros</a></li>
+                        <li><a href="exercicio.php?dir=db&file=excluir">Excluir Registro #01</a></li>
+                        <li><a href="exercicio.php?dir=db&file=consultar_pdo">Consultar Registros PDO</a></li>
+                        <li><a href="exercicio.php?dir=db&file=excluir_pdo">Excluir Registro PDO</a></li>
+                        <li><a href="exercicio.php?dir=db&file=alterar_pdo">Alterar Registro PDO</a></li>
                     </ul>
                 </div>        
             </nav>
