@@ -7,7 +7,7 @@
     print_r($_FILES);
 
     if($_FILES && $_FILES['arquivo']){
-        $pastaUpload = __DIR__ . '/uploads';
+        $pastaUpload = __DIR__ . '/uploads/';
         var_dump($pastaUpload);
         $nomeArquivo = $_FILES['arquivo']['name'];
         $arquivo = $pastaUpload . $nomeArquivo;
